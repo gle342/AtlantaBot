@@ -1,10 +1,10 @@
 module.exports = {
 	/* The token of your Discord Bot */
-	token: "XXXXXXXXXXX",
+	token: "ODk5ODI0NDgyMDU3ODcxNDAw.YW4Y2g.KZY5b-hVeeag7M5XjSx4vduSKCA",
 	/* For the support server */
 	support: {
-		id: "XXXXXXXXXXX", // The ID of the support server
-		logs: "XXXXXXXXXXX", // And the ID of the logs channel of your server (new servers for example)
+		id: "940603363198922803", // The ID of the support server
+		logs: "940603368995434508", // And the ID of the logs channel of your server (new servers for example)
 	},
 	/* Dashboard configuration */
 	dashboard: {
@@ -25,8 +25,8 @@ module.exports = {
 	},
 	/* Bot's owner informations */
 	owner: {
-		id: "XXXXXXXXXXX", // The ID of the bot's owner
-		name: "Androz#2091" // And the name of the bot's owner
+		id: "330254934563880961", // The ID of the bot's owner
+		name: "DogBay#9999" // And the name of the bot's owner
 	},
 	/* DBL votes webhook (optional) */
 	votes: {
